@@ -1,0 +1,45 @@
+.mydiv{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  margin-top: 10px;
+}
+.circle{
+  width: 60px;
+  height: 60px;
+  /* background-color: rebeccapurple;
+  background: radial-gradient(to right, rebeccapurple, red, blue); */
+  background-image: radial-gradient(rebeccapurple, red, blue);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.inercircle1{
+  width: 20px;
+  height: 20px;
+  /* position: absolute; */
+  right: 0;
+  /* left: 0; */
+  background-color: red;
+  border-radius: 50%;
+}
+.inercircle2{
+  width: 20px;
+  height: 20px;
+  /* position: absolute; */
+  right: 0;
+  /* left: 0; */
+  background-color: yellow;
+  border-radius: 50%;
+}
+.inercircle3{
+  width: 20px;
+  height: 20px;
+  /* position: absolute; */
+  right: 0;
+  /* left: 0; */
+  background-color: black;
+  border-radius: 50%;
+}

@@ -1,0 +1,22 @@
+{
+  "post": [
+    {
+      "username": "tolani",
+      "email": "tolani@gmail.com",
+      "password": "tholani",
+      "id": 1
+    },
+    {
+      "username": "Simplysekinat",
+      "email": "akinolasekinat123@gmail.com",
+      "password": "sekhinat",
+      "id": 2
+    },
+    {
+      "username": "Simplysekinat",
+      "email": "akinola@gmail.com",
+      "password": "sekninat",
+      "id": 3
+    }
+  ]
+}
